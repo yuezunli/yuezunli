@@ -1,4 +1,7 @@
 ## Hi there 👋
+I am an Assistant Professor/Lecturer in the institute of Artificial Intelligence, at Ocean University of China. My research interest lies at multimedia forensics, computer vision and vision security. I have published more than 30 papers in top conferences and journals, including NeurIPS, ICCV, CVPR, ECCV, TIFS, TCSVT, and PR, with over 6,900 citations on Google Scholar, including several papers with more than 1,000 citations each (CVPR20, CVPRW19, ICASSP19, WIFS18). The WIFS18 paper was also featured on CCTV13’s "World Weekly" special on deepfakes [7:43]. I serve as a reviewer for top conferences and journals, such as TPAMI, TIP, IJCV, TIFS, ICCV, CVPR, AAAI, NeurIPS, and ICLR. I have been recognized on Stanford’s 2024 list of the top 2% of scientists worldwide and am a recipient of the 2024 ACM Qingdao Rising Star Award.
+
+I was a Senior Research Scientist at the Department of Computer Science and Engineering of University at Buffalo, SUNY, working with Siwei Lyu. I was a summer intern at GE glocal research center during 2016 - 2018. I received Ph.D. degree in computer science at University at Albany, SUNY in 2020, advised by Siwei Lyu (IEEE/IAPR Fellow). I received M.S. degree in Computer Science in 2015 and B.S. degree in Software Engineering in 2012 at Shandong University.
 
 <!--
 **yuezunli/yuezunli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
