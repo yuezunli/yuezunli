@@ -5,7 +5,7 @@ My research interest lies at multimedia forensics, computer vision, and vision s
 
 I was a Senior Research Scientist at the Department of Computer Science and Engineering of University at Buffalo, SUNY, working with [Siwei Lyu](https://cse.buffalo.edu/~siweilyu/lyu_lab.html). I was a summer intern at GE glocal research center during 2016 - 2018. I received Ph.D. degree in computer science at University at Albany, SUNY in 2020, advised by [Siwei Lyu (IEEE/IAPR Fellow)](https://cse.buffalo.edu/~siweilyu/lyu_lab.html). I received M.S. degree in Computer Science in 2015 and B.S. degree in Software Engineering in 2012 at Shandong University.
 
-🏢 Currently, I am leading [Vision Analysis and Security (VAS) lab](https://yuezunli.github.io/ligroup/) <img src="https://yuezunli.github.io/images/logo.png" width="25">. Please drop me an email if you are interested in an internship / M.S. program. 
+📢 Currently, I am leading [Vision Analysis and Security (VAS) lab](https://yuezunli.github.io/ligroup/) <img src="https://yuezunli.github.io/images/logo.png" width="25">. Please drop me an email if you are interested in an internship / M.S. program. 
 <!--
 **yuezunli/yuezunli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
